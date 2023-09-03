@@ -6,13 +6,15 @@ the computer. The game will be a simple guessing game where the user tries to gu
 between 1 and 100. The computer will randomly generate a number, and the user will have 10
 guesses to guess the correct number. The game will keep track of the user score and display it at the
 end of the game.
+
 Project Methodology:
 1. The first step will be to design the game. This includes deciding on the game mechanics, the user
 interface, and the scoring system.
 
-java
-
-programming
-
+Project Scope: The project will create a simple text-based game that allows the user to play against
+the computer. The game will be a simple guessing game where the user tries to guess a number
+between 1 and 100. The computer will randomly generate a number, and the user will have 10
+guesses to guess the correct number. The game will keep track of the user score and display it at the
+end of the game.
 
 
