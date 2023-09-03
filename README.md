@@ -18,3 +18,7 @@ guesses to guess the correct number. The game will keep track of the user score 
 end of the game.
 
 
+Here i am attaching a video file that will show the glimps of actual project.
+https://github.com/Harsh6959Pathak/DIGIBHEM/assets/75636788/6b144b19-1dda-4937-a3a2-053b85e42578
+
+
